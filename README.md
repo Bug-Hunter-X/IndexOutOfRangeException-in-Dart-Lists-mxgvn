@@ -1,0 +1,3 @@
+# IndexOutOfRangeException in Dart
+
+This repository demonstrates the `IndexOutOfRangeException` that can occur when accessing elements of a list in Dart using an invalid index.  The code attempts to access an index beyond the list's bounds. This often happens due to off-by-one errors or logical errors in index calculations.  The solution demonstrates how to handle this exception using `try-catch` blocks or by checking index boundaries before accessing elements.
